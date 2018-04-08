@@ -1,5 +1,5 @@
 ### Install Nodejs
-use asdf https://github.com/asdf-vm/asdf-vm
+use asdf https://github.com/asdf-vm/asdf
 
 ```
 asdf plugin-add nodejs https://github.com/asdf-vm/asdf-nodejs.git

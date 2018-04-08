@@ -17,7 +17,7 @@
 
     <script>
       $(function () {
-      var socket = io('http://socket.bestacker.com');
+      var socket = io('http://socket.domain.com');
       $('form').submit(function(){
         socket.emit('chat message', $('#m').val());
         $('#m').val('');
